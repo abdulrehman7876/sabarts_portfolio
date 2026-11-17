@@ -62,7 +62,7 @@ export function Header() {
       <div className="container-page flex h-16 items-center justify-between">
         <a href="#home" onClick={() => setActiveSection("home")}>
           <img
-            className="h-14 object-contain"
+            className="sm:h-14 h-8 object-contain"
             src="/images/logo/Logo.webp"
             alt="SabaArts Logo"
           />
