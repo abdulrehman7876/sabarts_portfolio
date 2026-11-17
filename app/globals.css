@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+}
+
+body {
+  @apply bg-white font-body text-brand-ink antialiased;
+  overflow-x: hidden;
+}
+
+::selection {
+  @apply bg-brand-sun text-brand-ink;
+}
+
+:focus-visible {
+  outline: 3px solid #292929;
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+  }
+  .section-eyebrow {
+    @apply mb-3 inline-flex items-center rounded-full border border-brand-orange/20 bg-brand-peach px-4 py-1 text-sm font-bold text-brand-orange-dark;
+  }
+  .section-title {
+    @apply font-display text-3xl font-bold leading-tight tracking-tight text-brand-ink sm:text-4xl lg:text-5xl;
+  }
+  .btn {
+    @apply inline-flex min-h-[48px] items-center justify-center gap-2 rounded-full px-7 py-3 text-base font-bold transition duration-200;
+  }
+  .btn-primary {
+    @apply bg-brand-orange text-brand-ink shadow-soft hover:-translate-y-0.5 hover:shadow-lift;
+  }
+  .btn-secondary {
+    @apply border-2 border-brand-ink/80 bg-white text-brand-ink hover:-translate-y-0.5 hover:bg-brand-peach;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

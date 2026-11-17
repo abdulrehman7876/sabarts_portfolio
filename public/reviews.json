@@ -1,0 +1,200 @@
+{
+  "summary": {
+    "total_reviews": 14,
+    "average_rating": 4.7,
+    "star_breakdown": {
+      "5_stars": 12,
+      "4_stars": 1,
+      "3_stars": 0,
+      "2_stars": 1,
+      "1_star": 0
+    },
+    "rating_breakdown": {
+      "seller_communication_level": 4.8,
+      "quality_of_delivery": 4.6,
+      "value_of_delivery": 4.6
+    },
+    "reviews_with_files": 8
+  },
+  "reviews": [
+    {
+      "id": 1,
+      "reviewer": "teresa_jeffs",
+      "country": "United States",
+      "rating": 5,
+      "posted": "1 year ago",
+      "comment": "Great job!!!",
+      "price": "$50-$100",
+      "duration": "2 weeks",
+      "ongoing_collaboration": false,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/2711863e6a2fb09227b66438be5f26ca-1745822805/Revised%20book.pdf",
+      "seller_response": null
+    },
+    {
+      "id": 2,
+      "reviewer": "elallen62",
+      "country": "United States",
+      "rating": 5,
+      "posted": "1 year ago",
+      "comment": "Saba listened and followed instructions exactly. Very polite. Will work with this illustrator again.",
+      "price": "$50",
+      "duration": "5 days",
+      "ongoing_collaboration": true,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/baee87dab5ccece3bdc52724aa189add-1744698207/Survival-go%20bag.jpg",
+      "seller_response": null
+    },
+    {
+      "id": 3,
+      "reviewer": "elallen62",
+      "country": "United States",
+      "rating": 5,
+      "posted": "1 year ago",
+      "comment": "Delivered what I asked for and needed. Will use again.",
+      "price": "$50",
+      "duration": "2 days",
+      "ongoing_collaboration": true,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/7d03388b50459ed129a4700c53dcb0b2-1744892834/Hurricane%20Warnning.pdf",
+      "seller_response": null
+    },
+    {
+      "id": 4,
+      "reviewer": "jlovaas",
+      "country": "United States",
+      "rating": 4.7,
+      "posted": "1 year ago",
+      "comment": "Quick delivery, good communication.",
+      "price": "$50",
+      "duration": "7 days",
+      "ongoing_collaboration": false,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/e7bfdf8648b9fc57d85434a55482cb03-1744351586/Character%20Mockup.pdf",
+      "seller_response": null
+    },
+    {
+      "id": 5,
+      "reviewer": "aec_freespirit",
+      "country": "Australia",
+      "rating": 5,
+      "posted": "1 year ago",
+      "comment": "Saba, is a pleasure to work with. The illustrations for my book ended up being amazing and I am so happy to see my book come to life. If I needed changes Saba was always willing and able and showed professionalism. I am overall very Happy with the price, service, creativity and the outcome. So amazing 🤩",
+      "price": "$200-$400",
+      "duration": "6 weeks",
+      "ongoing_collaboration": true,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/6dbda75588833580e0ee1f03efdcf5ac-1733160395/Covers.pdf",
+      "seller_response": null
+    },
+    {
+      "id": 6,
+      "reviewer": "healthydelightc",
+      "country": "United States",
+      "rating": 5,
+      "posted": "1 year ago",
+      "comment": "Saba work is very professional and he delivers is expeditiously.",
+      "price": "$50",
+      "duration": "1 day",
+      "ongoing_collaboration": true,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/7d89dd5541499f1b9cb7aeb183bceefa-1732875035/classroom.jpg",
+      "seller_response": null
+    },
+    {
+      "id": 7,
+      "reviewer": "lorainrizk",
+      "country": "United States",
+      "rating": 5,
+      "posted": "2 years ago",
+      "comment": "he is great to work with. Will be using again!!",
+      "price": "$50",
+      "duration": "9 days",
+      "ongoing_collaboration": true,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/4242e0d9b8dd47ad3c25f5487a240aa9-1726396578/back%20ccover.jpg",
+      "seller_response": {
+        "seller": "sabaarts02",
+        "text": "Thanks for appreciation.",
+        "truncated": false
+      },
+      "marked_helpful_by_you": true
+    },
+    {
+      "id": 8,
+      "reviewer": "kprzybylowicz",
+      "country": "United States",
+      "rating": 4,
+      "posted": "2 years ago",
+      "comment": "Easy to work with",
+      "price": "$50",
+      "duration": "3 weeks",
+      "ongoing_collaboration": true,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/97e86e6780cc5f9dca66f5d95d68e27c-1719374983/balck%20T.jpeg",
+      "seller_response": null
+    },
+    {
+      "id": 9,
+      "reviewer": "healthydelightc",
+      "country": "United States",
+      "rating": 5,
+      "posted": "2 years ago",
+      "comment": "It is absolutely great working with Saba...He fully understands my request and delivers expeditiously.  He is truly a professional!  This is my second order and will continue to work with him to complete my project.",
+      "price": "$50",
+      "duration": "1 day",
+      "ongoing_collaboration": true,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/923cda8ea07386e385083a54149c63c4-1717247503/classroom2.jpg",
+      "seller_response": null,
+      "marked_helpful_by_you": true
+    },
+    {
+      "id": 10,
+      "reviewer": "healthydelightc",
+      "country": "United States",
+      "rating": 5,
+      "posted": "2 years ago",
+      "comment": "I'm excited about his professionalism, understanding of the project and willingness to go far and beyond to delivery a quality product in a timely manner.",
+      "price": "$50",
+      "duration": "1 day",
+      "ongoing_collaboration": true,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/50bd78735bf1d74d1ff1131ed0094f47-1716989551/classroom.jpg",
+      "seller_response": null,
+      "marked_helpful_by_you": true
+    },
+    {
+      "id": 11,
+      "reviewer": "inkwell_pub",
+      "country": "United Kingdom",
+      "rating": 5,
+      "posted": "2 years ago",
+      "comment": "Great experience with this seller. He touched everything I requested for. I'll surely work with him in the Future.",
+      "price": "$50-$100",
+      "duration": "3 weeks",
+      "ongoing_collaboration": false,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/8a9db2195e501b26f43b6ff3f2d621c8-1711502735/cover.pdf",
+      "seller_response": null,
+      "marked_helpful_by_you": true
+    },
+    {
+      "id": 13,
+      "reviewer": "kprzybylowicz",
+      "country": "United States",
+      "rating": 5,
+      "posted": "2 years ago",
+      "comment": "Creative, professional work",
+      "price": "$50",
+      "duration": "3 weeks",
+      "ongoing_collaboration": true,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/8cbccbafb69d5c44575b20708ca64258-1710733213/revision.pdf",
+      "seller_response": null,
+      "marked_helpful_by_you": true
+    },
+    {
+      "id": 14,
+      "reviewer": "thepuddinglady",
+      "country": "United States",
+      "rating": 5,
+      "posted": "2 years ago",
+      "comment": "This was simple,  smooth and on point.",
+      "price": "$50",
+      "duration": "2 weeks",
+      "ongoing_collaboration": false,
+      "work_sample": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/2645a8879f3d39cfa6e8848e34976e54-1710062804/3.png",
+      "seller_response": null,
+      "marked_helpful_by_you": true
+    }
+  ]
+}
